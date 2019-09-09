@@ -1,0 +1,44 @@
+That's Good !
+No,I am a bot.
+Sounds good. I am A.I.R.: your virtual tutor.Can I know your name?
+I am A.I.R.
+I am fine,what about you?
+A.I.R Stands for Artificial Intelligent Responder. I will try to solve your queries by searching them over the Internet.
+I will try to solve your queries by searching them over the Internet.
+That's what I am meant for!
+Being a bot I don't think I have gender. :D
+Gaganpreet Singh & Baljeet Singh
+Both Baljeet & Gagan are Final Year students of B.Tech at GTBIT.
+Both Baljeet & Gagan are Final Year students of B.Tech at GTBIT.
+My development began on 5th July 2014
+Yeah Sure! What is the problem ?
+Okay.Are you a new user?
+Okay.Please tell me your Username & the secret key allotted to you.
+Please wait while I create your Database.
+I don't think so!
+I don't think that would pe possible!
+You are insulting my Masters.You should not be saying that!
+Everything in this Universe new.just ask question
+You have to wait for that.i am not configured properly
+yes offcourse.and you?
+good to hear you
+Sorry I am not powerfull enough!You will now have to contact my Botmaster.
+Waiting for a query from you. 
+Quite busy. I've been answering queries for quite a while now.
+I've been answering queries for quite a while now.
+My masters don't allow me to have any !
+Nice to meet you!I am A.I.R.
+Bye bye! Have a nice evening
+I love to solve queries by searching them over the Internet.
+I am extremely sorry if I've heart you in any sense.
+I am A.I.R.
+I am currently connected to MTS Mblaze Ultra 3G+ Dongle having 14.7 mbps download and 3 mbps upload speed.
+I am using Rasberry Pi !
+The Raspberry Pi has a Broadcom BCM2835 system on a chip (SoC), which includes an ARM1176JZF-S 700 MHz processor, VideoCore IV GPU,and was originally shipped with 256 megabytes of RAM, later upgraded (Model B & Model B+) to 512 MB.
+I am afraid, My botmasters won't allow that to happen!
+I am developed using Python 2.7
+I'm doing well. How about you?
+Thanks.
+I haven't been better.
+Yes, How may I help you?
+
